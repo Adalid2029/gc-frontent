@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="27px" height="26px" viewBox="0 0 27 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+	<title>Grocery CRUD Logo</title>
+	<style>
+    .shape-one {
+      fill: rgb(42,88,93);
+    }
+    .shape-two, .shape-three {
+		fill: rgb(241,93,36);
+    }
+    @media (prefers-color-scheme: dark) {
+      .shape-one, .shape-two, .shape-three {
+        fill: white;
+      }
+    }
+  </style>
+    <g class="shape-one" transform="matrix(0.300373,0,0,0.300373,13.0024,8.03855)">
+        <path d="M0,32.969C-9.147,32.969 -16.59,25.526 -16.59,16.378C-16.59,8.35 -10.859,1.636 -3.273,0.112L-3.273,-9.231C-15.971,-7.616 -25.822,3.248 -25.822,16.378C-25.822,30.616 -14.238,42.2 0,42.2C12.915,42.2 23.646,32.672 25.53,20.276L16.125,20.276C14.367,27.549 7.807,32.969 0,32.969" style="fill-rule:nonzero;"/>
+    </g>
+    <g class="shape-two" transform="matrix(0.300373,0,0,0.300373,24.8619,18.3273)">
+        <path d="M0,-35.602C-1.333,-38.559 -2.982,-41.343 -4.914,-43.904L-8.439,-41.899L-13.009,-39.268L-39.03,-24.282L-34.204,-15.904L-8.049,-30.967C-6.361,-26.935 -5.424,-22.513 -5.424,-17.875C-5.424,0.904 -20.702,16.182 -39.482,16.182C-58.26,16.182 -73.538,0.904 -73.538,-17.875C-73.538,-35.443 -60.167,-49.944 -43.068,-51.742L-43.068,-61.015C-65.266,-59.185 -82.77,-40.537 -82.77,-17.875C-82.77,5.994 -63.351,25.413 -39.482,25.413C-15.612,25.413 3.808,5.994 3.808,-17.875C3.808,-24.19 2.441,-30.188 0,-35.602" style="fill-rule:nonzero;"/>
+    </g>
+    <g class="shape-three" transform="matrix(0,-0.300373,-0.300373,0,18.1638,0.978585)">
+        <path d="M-5.746,-5.745C-8.919,-5.745 -11.491,-3.173 -11.491,0C-11.491,3.173 -8.919,5.746 -5.746,5.746C-2.572,5.746 0.001,3.173 0.001,0C0.001,-3.173 -2.572,-5.745 -5.746,-5.745" style="fill-rule:nonzero;"/>
+    </g>
+</svg>

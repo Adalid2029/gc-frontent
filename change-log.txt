@@ -1,0 +1,10 @@
+3.0.3
+    - GC-481: When date columns are hidden and you press filtering with a date, React DatePicker doesn't appear correctly.
+    - GC-482: Issue with date and date-time values showing the wrong data within datagrid.
+3.0.2
+    - Fixing issue with failure error to appear as a simple popup message to the end user.
+    - GC-480 - MySQL Views doesn't consider the id from setPrimaryKey function on edit and delete.
+3.0.1
+    - Introducing new method `setDatagridButton` which we can apply extra datagrid buttons on top or bottom of the datagrid.
+3.0.0
+    - First official stable release of Grocery CRUD Enterprise v3.0.0.
